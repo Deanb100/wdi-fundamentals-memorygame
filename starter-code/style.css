@@ -67,3 +67,8 @@ p {
 	text-align: center;
 }
 
+/* Set size of images to match size of cards */
+img {
+  height: 200px;
+  width: 150px;
+}
